@@ -19,7 +19,7 @@ ____________
 [自链接(Markdown链接)](https://github.com/whguardian/README-MD "Markdown链接")格式：\[内容\]\(链接\)
 ------------
 图片显示，格式：**!\[图标识信息\]\(图链\)**，例：  
-![](Pic/github.jpg)
+![Github](Pic/github.jpg)
 
 ------------
     单行文本，文本前加一个**tab(四个space)**
