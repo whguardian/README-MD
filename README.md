@@ -15,7 +15,7 @@ ____________
 **小tip：文本后 双space + Enter 换行**  
 **换行**
 ____________
-<a href="https://github.com/whguardian/README-MD">自链接(html链接)</a>格式：<a href="">  
+<a href="https://github.com/whguardian/README-MD">自链接(html链接)</a>格式：\<a href=""\>  
 [自链接(Markdown链接)](https://github.com/whguardian/README-MD "Markdown链接")格式：\[内容\]\(链接\)
 
 ------------
@@ -27,5 +27,8 @@ ____________
 标题单元格之间加竖杠 | 之间不需要使用空格
 -------------------- | -----------------
 列名与内容之间------ | ---间插入一个竖杠
+
+------------
+**Markdown在线编辑工具：Chrome应用 StackEdit**
 
 
