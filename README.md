@@ -17,6 +17,9 @@ ____________
 ____________
 <a href="https://github.com/whguardian/README-MD">自链接(html链接)</a>格式：\<a href=""\>  
 [自链接(Markdown链接)](https://github.com/whguardian/README-MD "Markdown链接")格式：\[内容\]\(链接\)
+------------
+图片显示：  
+![][https://github.com/whguardian/README-MD/Pic/github.jpg]
 
 ------------
     单行文本，文本前加一个tab(四个space)
