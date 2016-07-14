@@ -15,8 +15,8 @@ ____________
 **小tip：文本后 双space + Enter 换行**  
 **换行**
 ____________
-<a href="https://github.com/whguardian/README-MD">自链接(html链接)</a>  
-[自链接(Markdown链接)](https://github.com/whguardian/README-MD "Markdown链接")
+<a href="https://github.com/whguardian/README-MD">自链接(html链接)</a>格式：<a href="">  
+[自链接(Markdown链接)](https://github.com/whguardian/README-MD "Markdown链接")格式：\[内容\]\(链接\)
 
 ------------
     单行文本，文本前加一个tab(四个space)
