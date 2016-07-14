@@ -16,6 +16,7 @@ ____________
 **换行**
 ____________
 <a href="https://github.com/whguardian/README-MD">自链接(html链接)</a>  
+[自链接(Markdown链接)](https://github.com/whguardian/README-MD "Markdown链接")
 
 ------------
     单行文本，文本前加两个tab  
