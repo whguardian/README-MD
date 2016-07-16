@@ -54,4 +54,13 @@ ____________
 ------------
 **Markdown在线编辑工具：Chrome应用 StackEdit**
 
+Tools  |          URL                           | Detail
+-------|----------------------------------------|----------
+Hexo   |[hexo.io](https://hexo.io)              | 静态博客框架
+Git    |[git-scm.com](http://git-scm.com)       | 分布式版本控制系统
+Node.js|[nodejs.org/en](https://nodejs.org/en/) | JS运行环境                                    
+NexT   |[theme-next.iissnan.com](http://theme-next.iissnan.com/)                              | 博客主题
+Disqus |[disqus.com](https://disqus.com/)       | 社会化评论系统
+Github |[github.com](https://github.com)        | 博客搭建位置
+
 
